@@ -1,0 +1,4 @@
+Student ID: 101
+Student Name: Dhivvya
+Course: Computer Science
+Marks: 90
